@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-experimentation-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-experimentation",
+  "presentation": "dart-desktop",
+  "package": "module_cms_experimentation_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/experimentation.md",
+  "presentationPlan": "projects/cms/features/experimentation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
